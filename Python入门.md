@@ -12,4 +12,4 @@
 
 [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp/)
 
-这套视频我学下来觉得挺好，不是那种带你过家家当时觉得懂了些什么事后什么也做不了的课程。配合着作者精心准备的Jupyter notebook上的笔记和练习，可以对Python的语法和一般功能有着很好的掌握。
+这套视频我学下来觉得挺好，不是那种带你过家家，当时觉得懂了些什么事后什么也做不了的课程。配合着作者精心准备的Jupyter notebook上的笔记和练习，可以对Python的语法和一般功能有着很好的掌握。
