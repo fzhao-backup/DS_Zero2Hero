@@ -1,6 +1,6 @@
-#Python入门（掌握基本语法知识）
+# Python入门（掌握基本语法知识）
 
-##用到的书籍：
+## 用到的书籍：
 
 [《Python编程快速上手：让繁琐工作自动化》](https://book.douban.com/subject/26836700/)（很好）
 
@@ -8,7 +8,7 @@
 
 两本都是图灵社区出的，英文原版在美亚的口碑特高，适合零基础的人直接学起来，能试着实现一些自动化操作，都是基于Python 3。两本都很好，强烈推荐两本都看，互相补充，加深理解，但因为各种原因如果你只看一本，我推荐《从入门到实践》那本。
 
-##视频教程：
+## 视频教程：
 
 [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp/)
 
